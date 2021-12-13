@@ -75,12 +75,9 @@ const Footer = () => {
             <Left>
                 <Logo>FAST.</Logo>
                 <Desc>
-                   Lorem ipsum dolor sit amet consectetur
-                   adipisicing elit. Reprehenderit sit sint
-                   fugiat libero architecto ipsam asperiores
-                   ,vel accusantium praesentium numquam
-                    eveniet vitae? Fugit neque nihil doloremque
-                    voluptate, obcaecati aliquid dolor?
+                There are many variations of passages of Lorem Ipsum available, but
+                the majority have suffered alteration in some form, by injected
+                humour, or randomised words which don’t look even slightly believable.
                 </Desc>
                 <SocialContainer>
                     <SocialIcon color="385999">
